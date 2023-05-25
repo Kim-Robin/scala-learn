@@ -32,4 +32,4 @@ metals.sbt
 /.worksheet/
 
 # github token
-./cred.txt
+cred.txt
